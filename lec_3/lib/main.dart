@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+// BuildContext
+// widget tree에서 현재 widget을 알 수 있는 정보
+//
+
 void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
